@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MedTrack</string>
+    <string name="title_activity_welcome_screen">WelcomeScreen</string>
+    <string name="title_activity_login_screen">LoginScreen</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_activity_home_screen">HomeScreen</string>
+    <string name="title_activity_add_medication_screen">AddMedicationScreen</string>
+    <string name="title_activity_symptoms">Symptoms</string>
+    <string name="title_activity_sign_up_screen">SignUpScreen</string>
+    <string name="title_activity_symptoms_screen">SymptomsScreen</string>
+    <string name="title_activity_sign_up">SignUp</string>
+    <string name="title_activity_models">Models</string>
+</resources>
