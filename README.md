@@ -1,6 +1,6 @@
 # MedTrack Pro - Assignment 3
 
-**Student:** Ng Li Xian (33986010)  
+**Student:** Ng Li Xian
 **Package:** com.ng.s33986010.medtrack
 
 ## Setup Instructions
